@@ -1,6 +1,7 @@
 # GIT Useful Commands
 
 git clone git@github.com:andrefsmelo/python-100days-vim
+
 cd python-100days-vim  # Access the cloned repository
 
 git branch  # Check the current branch
