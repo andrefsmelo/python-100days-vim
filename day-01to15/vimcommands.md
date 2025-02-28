@@ -1,8 +1,3 @@
----
-layout: default
-title: A Great Vim Cheat Sheet
----
-
 # A Great Vim Cheat Sheet
 
 
